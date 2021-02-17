@@ -1,0 +1,132 @@
+[submodule "blender-power-sequencer"]
+	path = blender-power-sequencer
+	url = https://github.com/gdquest/blender-power-sequencer.git
+[submodule "blender-power-sequencer-docs"]
+	path = blender-power-sequencer-docs
+	url = https://github.com/gdquest/blender-power-sequencer-docs.git
+[submodule "blender-proxies-generator"]
+	path = blender-proxies-generator
+	url = https://github.com/gdquest/blender-proxies-generator.git
+[submodule "blender-sequencer-multithreaded-render"]
+	path = blender-sequencer-multithreaded-render
+	url = https://github.com/gdquest/blender-sequencer-multithreaded-render.git
+[submodule "game-sprites"]
+	path = game-sprites
+	url = https://github.com/gdquest/game-sprites.git
+[submodule "gdscript-docs-maker"]
+	path = gdscript-docs-maker
+	url = https://github.com/gdquest/gdscript-docs-maker.git
+[submodule "godot-2d-action-platformer"]
+	path = godot-2d-action-platformer
+	url = https://github.com/gdquest/godot-2d-action-platformer.git
+[submodule "godot-2d-builder"]
+	path = godot-2d-builder
+	url = https://github.com/gdquest/godot-2d-builder.git
+[submodule "godot-2d-jrpg-combat"]
+	path = godot-2d-jrpg-combat
+	url = https://github.com/gdquest/godot-2d-jrpg-combat.git
+[submodule "godot-2d-rhythm"]
+	path = godot-2d-rhythm
+	url = https://github.com/gdquest/godot-2d-rhythm.git
+[submodule "godot-2d-space-game"]
+	path = godot-2d-space-game
+	url = https://github.com/gdquest/godot-2d-space-game.git
+[submodule "godot-2d-tactical-rpg-movement"]
+	path = godot-2d-tactical-rpg-movement
+	url = https://github.com/gdquest/godot-2d-tactical-rpg-movement.git
+[submodule "godot-2d-tactical-space-combat"]
+	path = godot-2d-tactical-space-combat
+	url = https://github.com/gdquest/godot-2d-tactical-space-combat.git
+[submodule "godot-2d-tower-defense"]
+	path = godot-2d-tower-defense
+	url = https://github.com/gdquest/godot-2d-tower-defense.git
+[submodule "godot-2d-visual-novel"]
+	path = godot-2d-visual-novel
+	url = https://github.com/gdquest/godot-2d-visual-novel.git
+[submodule "godot-3d-dodge-the-creeps"]
+	path = godot-3d-dodge-the-creeps
+	url = https://github.com/gdquest/godot-3d-dodge-the-creeps.git
+[submodule "godot-3d-fps-beginner-series"]
+	path = godot-3d-fps-beginner-series
+	url = https://github.com/gdquest/godot-3d-fps-beginner-series.git
+[submodule "godot-3d-mannequin"]
+	path = godot-3d-mannequin
+	url = https://github.com/gdquest/godot-3d-mannequin.git
+[submodule "godot-beginner-2d-platformer"]
+	path = godot-beginner-2d-platformer
+	url = https://github.com/gdquest/godot-beginner-2d-platformer.git
+[submodule "godot-debug-ui-toolkit"]
+	path = godot-debug-ui-toolkit
+	url = https://github.com/gdquest/godot-debug-ui-toolkit.git
+[submodule "godot-debug-visualisation-toolkit"]
+	path = godot-debug-visualisation-toolkit
+	url = https://github.com/gdquest/godot-debug-visualisation-toolkit.git
+[submodule "godot-demo-projects-remake"]
+	path = godot-demo-projects-remake
+	url = https://github.com/gdquest/godot-demo-projects-remake.git
+[submodule "godot-demos"]
+	path = godot-demos
+	url = https://github.com/gdquest/godot-demos.git
+[submodule "godot-design-patterns"]
+	path = godot-design-patterns
+	url = https://github.com/gdquest/godot-design-patterns.git
+[submodule "godot-guides-v3.0"]
+	path = godot-guides-v3.0
+	url = https://github.com/gdquest/godot-guides-v3.0.git
+[submodule "godot-kickstarter-2019"]
+	path = godot-kickstarter-2019
+	url = https://github.com/gdquest/godot-kickstarter-2019.git
+[submodule "godot-make-pro-2d-games"]
+	path = godot-make-pro-2d-games
+	url = https://github.com/gdquest/godot-make-pro-2d-games.git
+[submodule "godot-mini-tuts-demos"]
+	path = godot-mini-tuts-demos
+	url = https://github.com/gdquest/godot-mini-tuts-demos.git
+[submodule "godot-new-features-v3.1"]
+	path = godot-new-features-v3.1
+	url = https://github.com/gdquest/godot-new-features-v3.1.git
+[submodule "godot-open-rpg"]
+	path = godot-open-rpg
+	url = https://github.com/gdquest/godot-open-rpg.git
+[submodule "godot-platformer-2d"]
+	path = godot-platformer-2d
+	url = https://github.com/gdquest/godot-platformer-2d.git
+[submodule "godot-power-pitch"]
+	path = godot-power-pitch
+	url = https://github.com/gdquest/godot-power-pitch.git
+[submodule "godot-presentations"]
+	path = godot-presentations
+	url = https://github.com/gdquest/godot-presentations.git
+[submodule "godot-procedural-generation"]
+	path = godot-procedural-generation
+	url = https://github.com/gdquest/godot-procedural-generation.git
+[submodule "godot-shaders"]
+	path = godot-shaders
+	url = https://github.com/gdquest/godot-shaders.git
+[submodule "godot-steering-ai-framework"]
+	path = godot-steering-ai-framework
+	url = https://github.com/gdquest/godot-steering-ai-framework.git
+[submodule "godot-steering-ai-framework-demos"]
+	path = godot-steering-ai-framework-demos
+	url = https://github.com/gdquest/godot-steering-ai-framework-demos.git
+[submodule "godot-steering-ai-framework-submodule"]
+	path = godot-steering-ai-framework-submodule
+	url = https://github.com/gdquest/godot-steering-ai-framework-submodule.git
+[submodule "godot-text-tools"]
+	path = godot-text-tools
+	url = https://github.com/gdquest/godot-text-tools.git
+[submodule "godot-visual-effects"]
+	path = godot-visual-effects
+	url = https://github.com/gdquest/godot-visual-effects.git
+[submodule "krita-batch-exporter"]
+	path = krita-batch-exporter
+	url = https://github.com/gdquest/krita-batch-exporter.git
+[submodule "krita-free-brushes"]
+	path = krita-free-brushes
+	url = https://github.com/gdquest/krita-free-brushes.git
+[submodule "krita-tileset-templates"]
+	path = krita-tileset-templates
+	url = https://github.com/gdquest/krita-tileset-templates.git
+[submodule "product-packager"]
+	path = product-packager
+	url = https://github.com/gdquest/product-packager.git
