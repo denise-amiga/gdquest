@@ -58,9 +58,9 @@
 [submodule "godot-debug-ui-toolkit"]
 	path = godot-debug-ui-toolkit
 	url = https://github.com/gdquest/godot-debug-ui-toolkit.git
-[submodule "godot-debug-visualisation-toolkit"]
-	path = godot-debug-visualisation-toolkit
-	url = https://github.com/gdquest/godot-debug-visualisation-toolkit.git
+#[submodule "godot-debug-visualisation-toolkit"]
+#	path = godot-debug-visualisation-toolkit
+#	url = https://github.com/gdquest/godot-debug-visualisation-toolkit.git
 [submodule "godot-demo-projects-remake"]
 	path = godot-demo-projects-remake
 	url = https://github.com/gdquest/godot-demo-projects-remake.git
